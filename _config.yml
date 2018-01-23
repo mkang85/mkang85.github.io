@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Modern Magic 
 header-img: img/home-bg.png
 email: michaelkang85@gmail.com
 copyright_name: mkang85
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning the language of the web
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mkang85
