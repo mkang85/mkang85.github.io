@@ -14,9 +14,9 @@ permalink:  modern_magic
 
 Magic, is not what it seems.  From what I've seen on TV and the occasional bar trick, it often involves slight of hand or a planted device or person. 
 
-However this was not always the case.  Magic was ritualistic.  It was ceremonies and spells often from ancient tomes filled with cryptic runes and numerology.  There was a time when people were afraid of curses, or confident in their business ventures all due to the magician's word.  And the magician's word, whether truly magical or not was powerful.  The root of all this power was language. 
+However this was not always the case.  Magic was ritualistic.  It was ceremonies and spells often from ancient tomes filled with cryptic runes and numerology.  There was a time when people were afraid of curses, or confident in their business ventures all due to the magician's word.  And the magician's word, whether truly magical or not, was powerful.  The root of all this power was language. 
 
-Famed magician and comic book author Alan Moore (author of *Watchmen, V for Vendetta, League of Extraordinary Gentlemen* explains in this clip the power of language and it's connection to magic: 
+Famed magician and comic book author Alan Moore (author of *Watchmen, V for Vendetta, League of Extraordinary Gentlemen*) explains in this clip the power of language and it's connection to magic: 
 
 [Alan Moore Talks Magic](http://youtu.be/vw1Sv04YQS4)
 
