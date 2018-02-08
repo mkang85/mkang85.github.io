@@ -1,12 +1,14 @@
 ---
 layout: post
-title:      "'Modern Magic'"
+title:      "Modern Magic"
 date:       2018-02-07 22:16:28 -0500
 permalink:  modern_magic
 ---
 
 
 "To cast a spell is to spell..." 
+
+
 
 -Aleister Crowley
 
