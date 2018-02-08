@@ -1,12 +1,13 @@
 ---
 layout: post
 title:      "'Modern Magic'"
-date:       2018-02-08 03:16:27 +0000
+date:       2018-02-07 22:16:28 -0500
 permalink:  modern_magic
 ---
 
 
 "To cast a spell is to spell..." 
+
 -Aleister Crowley
 
 Magic, is not what it seems.  From what I've seen on TV and the occasional bar trick, it often involves slight of hand or a planted device or person. 
