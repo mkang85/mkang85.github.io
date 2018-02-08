@@ -18,7 +18,6 @@ However this was not always the case.  Magic was ritualistic.  It was ceremonies
 
 Famed magician and comic book author Alan Moore (author of *Watchmen, V for Vendetta, League of Extraordinary Gentlemen* explains in this clip the power of language and it's connection to magic: 
 
-[https://youtu.be/vw1Sv04YQS4]
 [Alan Moore Talks Magic](http://youtu.be/vw1Sv04YQS4)
 
 Essentially, when applied to the modern age, the role of a developer is the same as a magician.  Through specific patterns of syntax, symbols, numbers, we are able to create websites, games, and social media platforms.  With coding languages, we can create those programs and apps that will allow us to talk to people across the globe, to receive news instanteously, to buy whatever we may need, to learn how to code all while staying within our own home.  
