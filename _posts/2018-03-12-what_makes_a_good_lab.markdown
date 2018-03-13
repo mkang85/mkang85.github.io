@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What makes a good lab?"
-date:       2018-03-13 00:17:40 +0000
+date:       2018-03-12 20:17:41 -0400
 permalink:  what_makes_a_good_lab
 ---
 
