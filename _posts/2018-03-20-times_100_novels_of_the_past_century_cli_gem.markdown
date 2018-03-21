@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Time's 100 Novels of the Past Century CLI Gem"
-date:       2018-03-21 01:30:58 +0000
+date:       2018-03-20 21:30:58 -0400
 permalink:  times_100_novels_of_the_past_century_cli_gem
 ---
 
