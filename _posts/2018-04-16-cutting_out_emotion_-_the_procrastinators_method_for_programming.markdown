@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Cutting out emotion - the Procrastinator's method for Programming "
-date:       2018-04-17 03:02:31 +0000
+date:       2018-04-16 23:02:32 -0400
 permalink:  cutting_out_emotion_-_the_procrastinators_method_for_programming
 ---
 
