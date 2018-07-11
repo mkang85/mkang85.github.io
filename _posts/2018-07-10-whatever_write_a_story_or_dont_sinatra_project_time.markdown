@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Whatever...write a story or don't.  Sinatra Project time. "
+title:      "A Tool for Breaking Down all Stories! Sinatra Project Time "
 date:       2018-07-10 20:40:02 -0400
 permalink:  whatever_write_a_story_or_dont_sinatra_project_time
 ---
