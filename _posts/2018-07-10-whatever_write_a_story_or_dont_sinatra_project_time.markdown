@@ -48,7 +48,7 @@ Here's my story circle on what I went through with the project:
 3.  GO - Start outlining the project, conceiving of possible avenues. 
 4.  SEARCH - Program willy nilly, mess up, start again, refactor, learn and relearn past labs. 
 5.  FIND - Working code!
-6.  TAKE - But it's got bugs and is could be refactored. 
+6.  TAKE - But it's got bugs and needs to be refactored. 
 7.  RETURN - Kind of back to bumbling around, but...
 8.  CHANGE - I understand Sinatra and ActiveRecord much better, so I'm a better programmer!
 
